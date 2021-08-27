@@ -1,4 +1,6 @@
 # simulatedSecurityCam
+
+
 tells you if an intruder has been spotted using bmp images.
 To run program
 download files into a folder, open terminal in the folder.<br />
