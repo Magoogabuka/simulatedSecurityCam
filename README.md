@@ -1,8 +1,8 @@
 # simulatedSecurityCam
-
-
 tells you if an intruder has been spotted using bmp images.
-To run program
+
+
+To run program<br />
 download files into a folder, open terminal in the folder.<br />
 run the command: make<br />   
 this will build the program<br />
