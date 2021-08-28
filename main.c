@@ -132,7 +132,6 @@ First if statement checks that the number of arguements entered is enough
 
    /*----------------------
    LUMINENCE SUBTRACTION
-   Taken from assignment
    -----------------------*/
 
   for(i=0; i<info.height; i++)
