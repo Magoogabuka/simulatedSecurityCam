@@ -1,4 +1,3 @@
-
 #include "utils.h"
 
 pixel **pixelArray(FILE* image, int height, int width);
